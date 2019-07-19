@@ -1,0 +1,25 @@
+{
+  "name": "tailwind",
+  "version": "1.0.0",
+  "description": "Tuto Grafikart Tailwind",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlphaJet45/Grafikart_TailwindCSS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlphaJet45/Grafikart_TailwindCSS/issues"
+  },
+  "homepage": "https://github.com/AlphaJet45/Grafikart_TailwindCSS#readme",
+  "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^1.2.0",
+    "autoprefixer": "^9.6.1",
+    "parcel-bundler": "^1.12.3",
+    "tailwindcss": "^1.0.5"
+  }
+}
